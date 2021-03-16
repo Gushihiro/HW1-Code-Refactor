@@ -1,1 +1,2 @@
 # HW1-Code-Refactor
+<!--HW required us to push the HW folder provided to us from gitlabs onto our own GitHub repository using git bash. From there we had to ensure the index.html was in the root folder so the web page would properly display from GitHub. -->
